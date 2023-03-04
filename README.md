@@ -1011,3 +1011,25 @@ exports.delete = function (req, res) {
 
 
 //End of code here
+
+//References
+//Bulma. (n.d.). Dropdown. Retrieved March 4, 2023, from https://bulma.io/documentation/components/dropdown/
+//Referred to this web page on documentation in regards to dropdown. Also, was discussed in Devstackr's tutorial video series on task manger in Angular.
+//Bulma. (n.d.). Form controls. Retrieved March 4, 2023, from https://bulma.io/documentation/form/general/
+//Utilized this web page from Bulma since I utilized the many styles and templates from this folder for assignments 4.2-4.3.
+//Computer Hope. (n.d.). HTML color codes and names. Retrieved March 4, 2023, from https://www.computerhope.com/htmcolor.htm
+//Referred to this site briefly when it came to thinking of which color codes I wanted to utilize. In the end, I didn't use them but may be a useful source down the //line.
+//Devstackr. (2019, April). Build a Task Manager Application From Scratch (MEAN Stack). YouTube. Retrieved March 4, 2023, from https://www.youtube.com/playlist?list=PLIjdNHWULhPSZFDzQU6AnbVQNNo1NTRpd
+//For assignment 4.2 and most likely, assignment 4.3, I referred to videos 1 to 6 and then video 14 to try to build my Angular application. Utilized own words but //referred to these videos as guide as how to set up the various pages.
+//Devstackr. (2019, April). Task-manager-mean-stack. GitHub. Retrieved March 4, 2023, from https://github.com/Devstackr/task-manager-mean-stack
+//Referred to this web page to check to make sure I was coding in a similar way Devstackr formed each of the pages within Angular.
+//Devstackr. (2019, April 9). Creating the UI- [2] Build a Task manager w/Angular, NodeJS, and MongoDB [Video]. YouTube. https://www.youtube.com/watch?v=BO67e3QU9dU&list=PLIjdNHWULhPSZFDzQU6AnbVQNNo1NTRpd&index=3
+//Devstackr. (2019, April 9). Project Demo & Introduction- [1] Build a Task manager w/Angular, NodeJS and MongoDB [Video]. YouTube. https://www.youtube.com/watch?v=V-CeWkz1MNQ&list=PLIjdNHWULhPSZFDzQU6AnbVQNNo1NTRpd&index=2
+//Devstackr. (2019, April 10). Building the Api | NodeJS, Express and MongoDB- [3] Build a Task Manager w/MEAN Stack [Video]. YouTube. https://www.youtube.com/watch?v=P3R-8jj3S7U&list=PLIjdNHWULhPSZFDzQU6AnbVQNNo1NTRpd&index=3
+//Devstackr. (2019, April 10). Connecting Angular Frontend to the API- [4] Build a Task Manager w/Angular, NodeJS and MongoDB [Video]. YouTube. https://www.youtube.com/watch?v=185uAxYz1dU&list=PLIjdNHWULhPSZFDzQU6AnbVQNNo1NTRpd&index=4
+//Devstackr. (2019, April 10). Creating Lists and Displaying in Sidebar- [5] Build a Task Manager w/Angular, NodeJS and MongoDB [Video]. YouTube. https://www.youtube.com/watch?v=aOkAx1jZokc&list=PLIjdNHWULhPSZFDzQU6AnbVQNNo1NTRpd&index=5
+//Devstackr. (2019, April 10). New Task Button (FAB)- [6] Build a Task Manager w/Angular, NodeJS and MongoDB [Video]. YouTube. https://www.youtube.com/watch?v=7YK4pJZG0oA&list=PLIjdNHWULhPSZFDzQU6AnbVQNNo1NTRpd&index=6
+//Devstackr. (2019, April 13). Updating and Deleting Lists & Tasks- [14] Build a Task Manager w/Angular, NodeJS, and MongoDB [Video]. YouTube. https://www.youtube.com/watch?v=XM-1lNLuJjg&list=PLIjdNHWULhPSZFDzQU6AnbVQNNo1NTRpd&index=16
+//Litman, D. (2023, March 2). [Personal interview by A. Cayer].
+//Meeting with Dr. Litman to confirm some questions regarding unit 4. After meeting with him, I feel better regarding the current assignments.
+
