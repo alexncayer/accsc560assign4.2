@@ -1030,6 +1030,11 @@ exports.delete = function (req, res) {
 //Devstackr. (2019, April 10). Creating Lists and Displaying in Sidebar- [5] Build a Task Manager w/Angular, NodeJS and MongoDB [Video]. YouTube. https://www.youtube.com/watch?v=aOkAx1jZokc&list=PLIjdNHWULhPSZFDzQU6AnbVQNNo1NTRpd&index=5
 //Devstackr. (2019, April 10). New Task Button (FAB)- [6] Build a Task Manager w/Angular, NodeJS and MongoDB [Video]. YouTube. https://www.youtube.com/watch?v=7YK4pJZG0oA&list=PLIjdNHWULhPSZFDzQU6AnbVQNNo1NTRpd&index=6
 //Devstackr. (2019, April 13). Updating and Deleting Lists & Tasks- [14] Build a Task Manager w/Angular, NodeJS, and MongoDB [Video]. YouTube. https://www.youtube.com/watch?v=XM-1lNLuJjg&list=PLIjdNHWULhPSZFDzQU6AnbVQNNo1NTRpd&index=16
-//Litman, D. (2023, March 2). [Personal interview by A. Cayer].
+//Litman, M. (2023, March 2). [Personal interview by A. Cayer].
 //Meeting with Dr. Litman to confirm some questions regarding unit 4. After meeting with him, I feel better regarding the current assignments.
+//Litman, M., & Sear, E. (2023, February 24). Assignment 4.2 issue [E-mail].
+//Npm. (n.d.). Cors. Retrieved March 4, 2023, from https://www.npmjs.com/package/cors
+//Place I found about how to install cors.
+
+
 
